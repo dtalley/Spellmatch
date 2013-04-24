@@ -1,0 +1,111 @@
+[
+  {
+    "id": "soldier",
+    "name": "Soldier",
+    "weapon": "pea_shooter",
+    "level": 1,
+    "health": 100,
+    "flying": false,
+    "move_speed": 0.3,
+    "size": 1,
+    "material": "materials/units/unit_soldier.material",
+    
+    "animations": [
+      {
+        "name": "back_moving",
+        "frames": 4,
+        "fps": 6
+      },
+      {
+        "name": "front_moving",
+        "frames": 4,
+        "fps": 6
+      },
+      {
+        "name": "back_standing",
+        "frames": 1,
+        "fps": 1
+      },
+      {
+        "name": "front_standing",
+        "frames": 1,
+        "fps": 1
+      },
+      {
+        "name": "front_death",
+        "frames": 4,
+        "fps": 6
+      },
+      {
+        "name": "back_death",
+        "frames": 4,
+        "fps": 6
+      },
+      {
+        "name": "back_stunned",
+        "frames": 1,
+        "fps": 6
+      },
+      {
+        "name": "front_stunned",
+        "frames": 1,
+        "fps": 6
+      }
+    ]
+  },
+  
+  {
+    "id": "grunt",
+    "name": "Grunt",
+    "weapon": "rifle",
+    "level": 1,
+    "health": 200,
+    "flying": false,
+    "move_speed": 0.4,
+    "size": 1,
+    "material": "materials/units/unit_soldier.material",
+    
+    "animations": [
+      {
+        "name": "back_moving",
+        "frames": 4,
+        "fps": 6
+      },
+      {
+        "name": "front_moving",
+        "frames": 4,
+        "fps": 6
+      },
+      {
+        "name": "back_standing",
+        "frames": 1,
+        "fps": 1
+      },
+      {
+        "name": "front_standing",
+        "frames": 1,
+        "fps": 1
+      },
+      {
+        "name": "front_death",
+        "frames": 4,
+        "fps": 6
+      },
+      {
+        "name": "back_death",
+        "frames": 4,
+        "fps": 6
+      },
+      {
+        "name": "back_stunned",
+        "frames": 1,
+        "fps": 6
+      },
+      {
+        "name": "front_stunned",
+        "frames": 1,
+        "fps": 6
+      }
+    ]
+  }
+]

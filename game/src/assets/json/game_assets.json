@@ -1,0 +1,88 @@
+[ 
+  "json/game_config.json",
+  "json/game_units.json",
+  "json/game_spells.json",
+  "json/game_spawners.json",
+  "json/game_weapons.json",
+  "json/game_projectiles.json",
+  "json/game_effects.json",
+  
+  "maps/simple_map.map",
+  
+  "images/spawners/simple_spawner.png",  
+  
+  "images/maps/default.png",
+  
+  "images/spaces/hexagon_base.png",
+  "images/spaces/hexagon_red.png",
+  "images/spaces/hexagon_green.png",
+  "images/spaces/hexagon_blue.png",
+  "images/spaces/hexagon_yellow.png",
+  "images/spaces/hexagon_purple.png",
+  "images/spaces/hexagon_cyan.png",
+  "images/spaces/hexagon_hover.png",
+  "images/spaces/hexagon_charged.png",
+  "images/spaces/hexagon_selected.png",
+  "images/spaces/element_red.png",
+  "images/spaces/element_green.png",
+  "images/spaces/element_blue.png",
+  "images/spaces/element_yellow.png",
+  "images/spaces/element_purple.png",
+  "images/spaces/element_cyan.png",
+  
+  "images/units/soldier_small.png",
+  
+  "images/projectiles/bullet.png",
+  "images/effects/bullet_impact.png",
+  
+  "images/spells/spell_red_3.png",
+  "images/spells/spell_green_3.png",
+  "images/spells/spell_blue_3.png",
+  "images/spells/spell_yellow_3.png",
+  "images/spells/spell_purple_3.png",
+  "images/spells/spell_cyan_3.png",
+  
+  "materials/spaces/grid_space.material",
+  "materials/spaces/grid_red.material",
+  "materials/spaces/grid_green.material",
+  "materials/spaces/grid_blue.material",
+  "materials/spaces/grid_yellow.material",
+  "materials/spaces/grid_purple.material",
+  "materials/spaces/grid_cyan.material",
+  "materials/spaces/grid_selected.material",
+  "materials/spaces/grid_hover.material",
+  "materials/spaces/grid_charged.material",
+  "materials/spaces/element_red.material",
+  "materials/spaces/element_green.material",
+  "materials/spaces/element_blue.material",
+  "materials/spaces/element_yellow.material",
+  "materials/spaces/element_purple.material",
+  "materials/spaces/element_cyan.material",
+  
+  "materials/spawners/simple_spawner.material",
+  
+  "materials/units/unit_soldier.material",
+  
+  "materials/projectiles/bullet.material",
+  
+  "materials/effects/bullet_impact.material",
+  
+  "materials/spells/spell_red_1.material",
+  "materials/spells/spell_red_2.material",
+  "materials/spells/spell_red_3.material",
+  "materials/spells/spell_green_1.material",
+  "materials/spells/spell_green_2.material",
+  "materials/spells/spell_green_3.material",
+  "materials/spells/spell_blue_1.material",
+  "materials/spells/spell_blue_2.material",
+  "materials/spells/spell_blue_3.material",
+  "materials/spells/spell_yellow_1.material",
+  "materials/spells/spell_yellow_2.material",
+  "materials/spells/spell_yellow_3.material",
+  "materials/spells/spell_purple_1.material",
+  "materials/spells/spell_purple_2.material",
+  "materials/spells/spell_purple_3.material",
+  "materials/spells/spell_cyan_1.material",
+  "materials/spells/spell_cyan_2.material",
+  "materials/spells/spell_cyan_3.material"
+]

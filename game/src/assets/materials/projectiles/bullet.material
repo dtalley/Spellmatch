@@ -1,0 +1,12 @@
+{
+  "passes": [
+    {
+      "texture": "images/projectiles/bullet.png",
+      "offset": { "x":-2, "y":-2 },
+      "atlased": true,
+      "rows": 8,
+      "columns": 1,
+      "dimensions": {"width": 5, "height": 5}
+    }
+  ]
+}

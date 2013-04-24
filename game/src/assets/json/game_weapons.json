@@ -1,0 +1,23 @@
+[
+  {
+    "id": "pea_shooter",
+    "damage": 5,
+    "rate": 1.0,
+    "speed": 3.0,
+    "projectile": "bullet"
+  },
+  {
+    "id": "rifle",
+    "damage": 15,
+    "rate": 1.0,
+    "speed": 3.0,
+    "projectile": "bullet"
+  },
+  {
+    "id": "gatling",
+    "damage": 40,
+    "rate": 0.25,
+    "speed": 3.0,
+    "projectile": "bullet"
+  }
+]

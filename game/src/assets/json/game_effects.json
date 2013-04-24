@@ -1,0 +1,8 @@
+[
+  {
+    "id": "bullet_impact",
+    "material": "materials/effects/bullet_impact.material",
+    "frames": 4,
+    "fps": 6
+  }
+]

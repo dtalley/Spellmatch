@@ -1,0 +1,10 @@
+{
+  "move_rate": 1.0,
+  "available_spaces": 5,
+  "total_spaces": 7,
+  
+  "grid": {
+    "space": { "width": 66, "height": 48 },
+    "draw": { "width": 91, "height": 49 }
+  }
+}

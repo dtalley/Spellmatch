@@ -1,0 +1,55 @@
+{
+  "passes": [
+    {
+      "texture": "images/units/soldier_small.png",
+      "offset": { "x":-5, "y":-16 },
+      "atlased": true,
+      "rows": 5,
+      "columns": 4,
+      "dimensions": {"width": 11, "height": 16},
+      
+      "sections": [
+        {
+          "name": "back_moving",
+          "row": 0,
+          "column": 0
+        },
+        {
+          "name": "front_moving",
+          "row": 1,
+          "column": 0
+        },
+        {
+          "name": "back_standing",
+          "row": 0,
+          "column": 0
+        },
+        {
+          "name": "front_standing",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "name": "back_death",
+          "row": 2,
+          "column": 0
+        },
+        {
+          "name": "front_death",
+          "row": 3,
+          "column": 0
+        },
+        {
+          "name": "back_stunned",
+          "row": 4,
+          "column": 0
+        },
+        {
+          "name": "front_stunned",
+          "row": 4,
+          "column": 1
+        }
+      ]
+    }
+  ]
+}

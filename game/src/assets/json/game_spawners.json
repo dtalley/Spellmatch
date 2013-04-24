@@ -1,0 +1,28 @@
+[
+  {
+    "id": "enemy_1",
+    "rate": 1.0,
+    "level": 1,
+    "health": 300,
+    "targets": 1,
+    "damage": 30,
+    "material": "materials/spawners/simple_spawner.material",
+    "supply": -1,
+    "slots": 5,
+    "units": ["soldier"],
+    "weapon": "gatling"
+  },
+  {
+    "id": "player_1",
+    "rate": 6.0,
+    "level": 1,
+    "health": 300,
+    "targets": 1,
+    "damage": 30,
+    "material": "materials/spawners/simple_spawner.material",
+    "supply": 0,
+    "slots": 5,
+    "units": ["grunt"],
+    "weapon": "gatling"
+  }
+]

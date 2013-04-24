@@ -1,0 +1,8 @@
+{
+  "passes": [
+    {
+      "texture": "images/spaces/hexagon_hover.png",
+      "offset": { "x":0, "y":0 }
+    }
+  ]
+}

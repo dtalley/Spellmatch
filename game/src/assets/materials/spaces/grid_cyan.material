@@ -1,0 +1,8 @@
+{
+  "passes": [
+    {
+      "texture": "images/spaces/hexagon_cyan.png",
+      "offset": { "x":0, "y":0 }
+    }
+  ]
+}

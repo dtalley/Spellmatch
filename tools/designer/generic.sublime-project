@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "./"
+		}
+	],
+
+  "build_systems":
+  [
+      {
+          "name": "Build Application",
+          "cmd": ["php", "build.php"],
+          "working_dir": "${project_path}/scripts"
+      }
+  ]
+}

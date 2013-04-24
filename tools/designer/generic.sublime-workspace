@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"avi",
+				"availableConfig"
+			],
+			[
+				"target_c",
+				"target_codes_minor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build/index.html",
+			"settings":
+			{
+				"buffer_size": 372,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/S/Projects/Rezscore/test.html",
+			"settings":
+			{
+				"buffer_size": 305,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/S/Projects/Rezscore/sendrequest.php",
+			"settings":
+			{
+				"buffer_size": 956,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build/build.json",
+			"settings":
+			{
+				"buffer_size": 332,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Build Application",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/S/Work/dave/personal/Blizzard/WebTest/js/json.js",
+		"/S/Projects/Spellmatch/tools/designer/generic.sublime-project",
+		"/S/Projects/Spellmatch/tools/designer/build/js/index.js",
+		"/S/Work/dave/personal/Blizzard/backend_thtest_v4/build/SimpleServlet.java",
+		"/S/Work/dave/personal/Blizzard/backend_thtest_v4/build/SimpleServletResponse.java",
+		"/S/Work/dave/personal/Blizzard/WebTest/js/menu.js",
+		"/S/Work/dave/personal/Blizzard/backend_thtest_v4/build/SimpleServletRequest.java",
+		"/S/Work/dave/personal/Blizzard/backend_thtest_v4/build/files/index.html",
+		"/S/Projects/Eclipse/BlizzardHTTPServer/pom.xml",
+		"/S/Work/jedi_academy_source_code/asteroids_code/codemp/game/g_main.c",
+		"/S/Projects/Spellmatch/tools/designer/scripts/build.bat",
+		"/S/Projects/Spellmatch/tools/designer/scripts/build-debug.bat",
+		"/S/Projects/Spellmatch/tools/designer/output/index.html",
+		"/S/Projects/Spellmatch/tools/designer/output/css/index.css",
+		"/S/Projects/Spellmatch/tools/designer/build/css/index.scss",
+		"/S/Projects/Spellmatch/tools/designer/build/css/index.css",
+		"/S/Projects/Kuro/RandomWeb/RaimanaWorld/exp/plain.html.erb",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/server/app_update.php",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/server/con_update.php",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Program.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers.sln",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Properties/AssemblyInfo.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Properties/Resources.Designer.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Properties/Resources.resx",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Properties/Settings.Designer.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Properties/Settings.settings",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Form1.resx",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Form1.Designer.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Form1.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/Checkers.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/BlizzardCheckers.csproj.user",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers/BlizzardCheckers.csproj",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers - Copy/BlizzardCheckers.suo",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers/Properties/Settings.settings",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers/Properties/Settings.Designer.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers/Properties/Resources.resx",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers/Properties/Resources.Designer.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers/Properties/AssemblyInfo.cs",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers.csproj",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers.csproj.user",
+		"/S/Work/dave/personal/Blizzard/BlizzardCheckers/BlizzardCheckers/BlizzardCheckers.sln",
+		"/S/Projects/Kuro/RandomWeb/RaimanaWorld/exp/index.htm",
+		"/S/Projects/Kuro/RandomWeb/RaimanaWorld/exp/assets/index.css",
+		"/S/Projects/Kuro/RandomWeb/RaimanaWorld/exp/javascripts/index.js",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/server/2013.03.07/assets.sql",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/server/2013.03.07/government.sql",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/src/com/kuro/ai/db/DatabaseManager.as",
+		"/S/Work/dave/cecs444/CECS444-Parser/master_table.ods",
+		"/S/Projects/Kuro/RandomWeb/KuroInfinite/js/index.js",
+		"/S/Projects/Kuro/RandomWeb/KuroInfinite/css/index.css",
+		"/S/Projects/Kuro/RandomWeb/KuroInfinite/js/jquery.nested.js",
+		"/S/Work/dave/personal/Red 5 Studios - C++ Test - v1/UI Test/item_database.lua",
+		"/S/Work/dave/personal/Red 5 Studios - C++ Test - v1/UI Test/interface.lua",
+		"/S/Projects/Kuro/RandomWeb/KuroInfinite/kuro-infinite.sublime-project",
+		"/S/Work/dave/personal/Red 5 Studios - C++ Test - v1/UI Test/main.lua",
+		"/S/Work/dave/personal/Red 5 Studios - C++ Test - v1/UI Test/main.xml",
+		"/S/Work/dave/personal/Red 5 Studios - C++ Test - v1/UI Test/gui/localstrings.xml",
+		"/S/Work/dave/personal/Red 5 Studios - C++ Test - v1/UI Test/gui/testharness.lua",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/server/2012.09.14/quizzes.sql",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/server/2012.09.14/assets.sql",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/server/2012.11.06/assets.sql",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/server/2013.03.07/extra.sql",
+		"/S/Projects/Project Euler/Problem 7/Python/problem.py",
+		"/S/Work/kuro/ai/2012.05.02 - 2012 Presentation Actual/client/server/2013.03.07/favorites.sql",
+		"/S/Projects/Project Euler/Problem 6/Python/problem.py",
+		"/S/Projects/Project Euler/Problem 3/Python/problem.py",
+		"/S/Projects/Project Euler/Problem 3/Python/run_problem.bat",
+		"/S/Projects/Project Euler/Problem 5/Python/problem.py",
+		"/S/Projects/Project Euler/Problem 4/Python/problem.py",
+		"/S/Projects/Project Euler/Problem 5/Python/run_problem.bat",
+		"/S/Work/dave/personal/Red 5 Studios - C++ Test - v1/test_files/perm.cpp",
+		"/S/Projects/Spellmatch/game/Spellmatch.as3proj",
+		"/S/Work/dave/personal/Red 5 Studios - C++ Test - v1/test_files/aliquot.cpp",
+		"/S/Work/dave/personal/altametrics/test.php",
+		"/S/Projects/Common/Bullet/2.81/src/BulletDynamics/Character/btKinematicCharacterController.cpp",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironPhysics.cpp",
+		"/S/Projects/Gridiron/src/gridiron/client/GridironClient.cpp",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironGame.cpp",
+		"/S/Projects/Gridiron/src/gridiron/client/GridironFrameListener.cpp",
+		"/S/Projects/Gridiron/src/gridiron/client/GridironDebugDrawer.h",
+		"/S/Projects/Gridiron/src/gridiron/client/GridironDebugDrawer.cpp",
+		"/S/Projects/Gridiron/projects/GridironClient/assets/game/scripts/player/PlayerController.as",
+		"/S/Work/boomtown/source/flash/com/boomtown/utils/BlockAxisGrid.as",
+		"/S/Work/boomtown/source/flash/com/boomtown/utils/BlockMetrics.as",
+		"/S/Work/boomtown/source/flash/com/boomtown/utils/HexagonAxisGrid.as",
+		"/S/Projects/Gridiron/projects/GridironClient/assets/game/scripts/math/Math.as",
+		"/S/Projects/Gridiron/projects/GridironClient/assets/game/scripts/main.as",
+		"/S/Projects/Gridiron/projects/GridironClient/assets/game/scripts/player/Player.as",
+		"/S/Projects/Gridiron/projects/GridironClient/assets/game/scripts/physics/Physics.as",
+		"/S/Projects/Common/Orionark/AS3/Spellmatch.as3proj",
+		"/S/Projects/Gridiron/projects/GridironClient/assets/game/scripts/state/MainMenuState.as",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironGame.h",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironMotionState.cpp",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironMotionState.h",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironPhysics.h",
+		"/S/Projects/Gridiron/src/gridiron/shared/GIU.h",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironCharacterController.h",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironCharacterController.cpp",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironController.cpp",
+		"/S/Projects/Gridiron/src/gridiron/shared/GridironController.h",
+		"/S/Projects/Common/Bullet/2.81/Demos/CharacterDemo/CharacterDemo.cpp",
+		"/S/Projects/Gridiron/bin/GridironClient/Release/assets/resources_d.cfg",
+		"/S/Projects/Gridiron/projects/GridironClient/assets/resources.cfg",
+		"/C/Dave/Projects/Gridiron/files/bendybox2.oml",
+		"/C/Users/dtalley/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/dtalley/AppData/Roaming/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/C/Users/dtalley/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/untitled.oml",
+		"/C/Program Files (x86)/Blender Foundation/Blender/2.65/scripts/addons/io_scene_fbx/__init__.py",
+		"/C/Program Files (x86)/Blender Foundation/Blender/2.65/scripts/addons/io_scene_oml/__init__.py",
+		"/C/Program Files (x86)/Blender Foundation/Blender/2.65/scripts/addons/io_scene_oml/export_oml.py",
+		"/C/Program Files (x86)/Blender Foundation/Blender/2.65/scripts/addons/io_export_oml.py",
+		"/C/Program Files (x86)/Blender Foundation/Blender/2.63/scripts/addons/io_export_ogreDotScene.py",
+		"/C/SuperPlayGames/anim-tool-art-export/Animations/Characters/Munchie/Base.xml",
+		"/C/Dave/Projects/Common/Havok/hk2012_1_0_r1/Demo/Demos/Physics/UseCase/CharacterControl/CharacterProxy/CharacterController/CharacterControllerDemo.cpp",
+		"/C/Dave/Projects/Gridiron/projects/GridironClient/assets/resources_d.cfg",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/core_head.html",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/js/start.js",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/core_foot.html",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/js/config.js",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/js/views/sidebar/geometry/texture_unit.js",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/js/views/sidebar/geometry/pass.js",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/html/sidebar.html",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/css/sidebar.scss",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/js/views/sidebar/property.js",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/js/views/sidebar/sidebar-panel.js",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/js/views/sidebar/geometry/material.js",
+		"/C/Dave/Projects/Gridiron/projects/GridironModelTool/build/gridium/interface/js/views/sidebar/geometry/technique.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"process_style",
+			"korduroy",
+			"\"/assets",
+			";\n",
+			"while",
+			"count",
+			"counter",
+			"padding",
+			"top",
+			"images/",
+			"component",
+			"api",
+			"magnitude",
+			"step",
+			"World",
+			"step",
+			"deb",
+			"GridironDebug",
+			"m_ghostObject->setWorld",
+			"m_touchingNormal",
+			"m_normalizedDirection",
+			"recoverFrom",
+			"Contact",
+			"m_",
+			"m_touch",
+			"m_touchingNormal",
+			"m_",
+			"CollisionDetected",
+			"OverlappingPairCache",
+			"m_touchingContact",
+			"fw",
+			"EMPTY",
+			"save_single",
+			"save_single\\",
+			"save_single",
+			"use_anim",
+			"list(",
+			"type",
+			"getAnimParRelMatrix",
+			"action_bone_names",
+			"rotation",
+			"prop",
+			"action_bone_names",
+			"blenActionList",
+			"action",
+			"actions",
+			"save_single(",
+			"Name:",
+			"write",
+			"precision",
+			"Precision",
+			"this.material",
+			"this.technique",
+			"this.pass",
+			"this.material",
+			"selected",
+			"trigger",
+			"collection",
+			"dispatcher",
+			"name",
+			"dispatcher",
+			"collection",
+			"1px",
+			"selectOption",
+			"MaterialProp",
+			"properties",
+			"Log",
+			"min",
+			"each",
+			"ajax",
+			"animate",
+			"ajax",
+			"jQuery.ex",
+			"ajax",
+			"css",
+			"callback",
+			"Backbone=",
+			"Backbone",
+			"reduce",
+			"SampleSubmarineFilterShader",
+			"Axis",
+			"-Z",
+			"axes",
+			"axis",
+			"x;",
+			".x",
+			"-Z",
+			"Forward",
+			"apply",
+			"Camera",
+			"direction",
+			"register",
+			"Mesh",
+			"dotmesh",
+			"FilterShader",
+			"fetch",
+			"getStepper(",
+			"advance(",
+			":advance(",
+			"advance(",
+			" advance(",
+			"advance(",
+			"advance",
+			"Threa",
+			"mProfileZoneManager",
+			"onInit",
+			"bind",
+			"CreateObj",
+			"Create",
+			"compensateNPOT",
+			"ToWebString",
+			"addWebTi",
+			"captureImage",
+			"JPG",
+			"awe_",
+			"Update(",
+			"titleCanvas",
+			"naviMgr",
+			"processLibrary",
+			"processLibrary(",
+			"inverse()",
+			"inv",
+			"inv()",
+			"inverse",
+			"layer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"http://raimanaworld.com/assets",
+			"",
+			"Component",
+			"GameAPI",
+			"restore",
+			"part"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build/index.html",
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/S/Projects/Rezscore/test.html",
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/S/Projects/Rezscore/sendrequest.php",
+					"settings":
+					{
+						"buffer_size": 956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								642
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "build/build.json",
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 260.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true
+}

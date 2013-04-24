@@ -1,0 +1,12 @@
+{
+  "passes": [
+    {
+      "texture": "images/effects/bullet_impact.png",
+      "offset": { "x":-1, "y":-1 },
+      "atlased": true,
+      "rows": 1,
+      "columns": 4,
+      "dimensions": {"width": 3, "height": 3}
+    }
+  ]
+}

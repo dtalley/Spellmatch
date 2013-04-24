@@ -1,0 +1,174 @@
+{
+  "lanes": 7,
+  "length": 10,
+  "position": { "x": 140, "y": 135 },
+  "types": ["red", "green", "yellow", "purple", "cyan"],
+  
+  "disable": [
+    { "x": 1, "y": 9 },
+    { "x": 3, "y": 9 },
+    { "x": 5, "y": 9 }
+  ],
+  
+  "spawners": [
+    {
+      "id": 0,
+      "type": "enemy_1",
+      "x": 0, 
+      "y": 0,
+      "owner": 0,
+      "opponent": 1,
+      "supply": 100
+    },
+    {
+      "id": 1,
+      "type": "enemy_1",
+      "x": 1, 
+      "y": 0,
+      "owner": 0,
+      "opponent": 1,
+      "supply": 100
+    },
+    {
+      "id": 2,
+      "type": "enemy_1",
+      "x": 2, 
+      "y": 0,
+      "owner": 0,
+      "opponent": 1,
+      "supply": 100
+    },
+    {
+      "id": 3,
+      "type": "enemy_1",
+      "x": 3, 
+      "y": 0,
+      "owner": 0,
+      "opponent": 1,
+      "supply": 100
+    },
+    {
+      "id": 4,
+      "type": "enemy_1",
+      "x": 4, 
+      "y": 0,
+      "owner": 0,
+      "opponent": 1,
+      "supply": 100
+    },
+    {
+      "id": 5,
+      "type": "enemy_1",
+      "x": 5, 
+      "y": 0,
+      "owner": 0,
+      "opponent": 1,
+      "supply": 100
+    },
+    {
+      "id": 6,
+      "type": "enemy_1",
+      "x": 6, 
+      "y": 0,
+      "owner": 0,
+      "opponent": 1,
+      "supply": 100
+    },
+    {
+      "id": 7,
+      "type": "player_1",
+      "x": 0, 
+      "y": 9,
+      "owner": 1,
+      "opponent": 0,
+      "supply": -1
+    },
+    {
+      "id": 8,
+      "type": "player_1",
+      "x": 1, 
+      "y": 8,
+      "owner": 1,
+      "opponent": 0,
+      "supply": -1
+    },
+    {
+      "id": 9,
+      "type": "player_1",
+      "x": 2, 
+      "y": 9,
+      "owner": 1,
+      "opponent": 0,
+      "supply": -1
+    },
+    {
+      "id": 10,
+      "type": "player_1",
+      "x": 3, 
+      "y": 8,
+      "owner": 1,
+      "opponent": 0,
+      "supply": -1
+    },
+    {
+      "id": 11,
+      "type": "player_1",
+      "x": 4, 
+      "y": 9,
+      "owner": 1,
+      "opponent": 0,
+      "supply": -1
+    },
+    {
+      "id": 12,
+      "type": "player_1",
+      "x": 5, 
+      "y": 8,
+      "owner": 1,
+      "opponent": 0,
+      "supply": -1
+    },
+    {
+      "id": 13,
+      "type": "player_1",
+      "x": 6, 
+      "y": 9,
+      "owner": 1,
+      "opponent": 0,
+      "supply": -1
+    }
+  ],
+  
+  "schedule": [
+    {
+      "spawner": 1,
+      "time": 10.0,
+      "units": [
+        {
+          "type": "soldier",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "spawner": 3,
+      "time": 10.0,
+      "units": [
+        {
+          "type": "soldier",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "spawner": 5,
+      "time": 10.0,
+      "units": [
+        {
+          "type": "soldier",
+          "count": 5
+        }
+      ]
+    }
+  ]
+}

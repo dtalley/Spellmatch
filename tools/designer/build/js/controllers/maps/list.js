@@ -1,0 +1,3 @@
+App.controllers.MapListController = function() {
+
+}

@@ -1,0 +1,8 @@
+{
+  "passes": [
+    {
+      "texture": "images/spaces/element_purple.png",
+      "offset": { "x":0, "y":0 }
+    }
+  ]
+}

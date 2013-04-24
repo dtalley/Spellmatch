@@ -1,0 +1,28 @@
+[
+  {
+    "output": "index.html",
+    "inputs": [
+      "index.html"
+    ]
+  },
+  {
+    "output": "css/index.css",
+    "inputs": [
+      "css/index.scss"
+    ]
+  },
+  {
+    "output": "js/common.js",
+    "inputs": [
+      "js/jquery.min.js"
+    ]
+  },
+  {
+    "output": "js/index.js",
+    "inputs": [
+      "js/index.js",
+      "js/controllers/maps/list.js",
+      "js/controllers/maps/editor.js"
+    ]
+  }
+]

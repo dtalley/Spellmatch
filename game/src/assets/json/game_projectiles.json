@@ -1,0 +1,10 @@
+[
+  {
+    "id": "bullet",
+    "material": "materials/projectiles/bullet.material",
+    "angles": 8,
+    "frames": 1,
+    "fps": 6,
+    "effect": "bullet_impact"
+  }
+]

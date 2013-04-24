@@ -1,0 +1,20 @@
+{
+  "passes": [
+    {
+      "texture": "images/spells/spell_purple_3.png",
+      "offset": { "x":0, "y":0 },
+      "atlased": true,
+      "rows": 1,
+      "columns": 4,
+      "dimensions": {"width": 91, "height": 49},
+      
+      "sections": [
+        {
+          "name": "spell_animation",
+          "row": 0,
+          "column": 0
+        }
+      ]
+    }
+  ]
+}

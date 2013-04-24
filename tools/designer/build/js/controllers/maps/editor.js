@@ -1,0 +1,3 @@
+App.controllers.MapEditorController = function() {
+  
+}
